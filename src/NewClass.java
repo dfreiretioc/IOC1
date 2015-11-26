@@ -8,6 +8,7 @@
  *
  * @author Jordi
  */
+//xxxxxx
 public class NewClass {
     
 }
